@@ -2,11 +2,16 @@
 ANI-1 neural potential for energy predicting
 
 #### 12.30
+
 实现了使用ani1_gdb10_ts.h5数据集小规模训练，结果储存在logs中。
+
 TODO
 优化损失函数
+
 修改batchsize的提供方式，提高batchsize到1000左右
+
 确定训练集和测试集，在训练集上预测试
+
 在Linux系统预训练
 
 
